@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Artem! 👋
 
-<!--
-**MoHbI4/MoHbI4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 What I'm working with:
+- **Core Languages:** Python 🐍, SQL
+- **ML/DL Frameworks:** PyTorch, Scikit-learn, XGBoost, CatBoost
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **NLP Tools:** NLTK, spaCy, Transformers
+- **Databases:** SQL, MongoDB
+- **Tools:** Jupyter, Git, Docker, Linux, Airflow
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning:
+- **Natural Language Processing** - exploring transformer architectures and language models
+- **Deep Learning** - advancing in neural networks and computer vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Areas of Interest:
+- 📊 Data Analysis & Visualization
+- 🧠 Machine Learning & Deep Learning
+- 🔤 Natural Language Processing
+- 📈 Predictive Analytics
+- 🤖 AI Research & Development
+
+### 📫 Let's Connect:
+- Email: aestromov96@icloud.com
